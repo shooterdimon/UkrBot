@@ -1,0 +1,6 @@
+flask
+mongoengine
+pyTelegramBotApi
+gunicorn
+bs4
+lxml

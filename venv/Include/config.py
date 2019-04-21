@@ -1,0 +1,3 @@
+BOT_TOKEN = "712183750:AAFW5x6kSuAhD6ibSLAOpnNyjRay7YH8VZs"
+
+HEROKU_APP_NAME = "ostapbotapp"
